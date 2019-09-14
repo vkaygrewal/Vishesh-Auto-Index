@@ -8,7 +8,9 @@ Note:- If you want to Upgrade from older version I will help you.
 
 
 # New Features:
+
 ===========================
+
 ● Added New Loading JavaScript
 ● Long Press Link Preview Permission Denied, No one copy Link address
 ● Every File Have Title, Artist, Category, Label, Lyrics for mp3/mp4
@@ -48,7 +50,10 @@ Note:- If you want to Upgrade from older version I will help you.
 
 
 How To Install :-
+
+
 ###################################
+
 1. Download Vishesh Auto Index 4.0 
 2. Upload And Extract It on your Online File Manager
 3. Now Goto:-
