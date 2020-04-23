@@ -1,13 +1,12 @@
 
-Vishesh Auto Index 4.0
-This Release is a complete upgrade of Vishesh Auto Index. Its not* upgradeable from older versions. Since many things are added so the whole database structure has changed and it's designed Only for mp3/mp4 downloading websites. 
+Vishesh Auto Index 5
 
 
-Note:- If you want to Upgrade from older version I will help you.
+ChangeLog/Other FAQ:-
+Visit Now:- 
+https://visheshgrewal.blogspot.com/2020/04/vishesh-auto-index-5-changelogdownload.html
 
-
-
-# New Features:
+#Features:
 
 ===========================
 
@@ -24,8 +23,8 @@ Note:- If you want to Upgrade from older version I will help you.
 ● http redirect to http://www
 
 
-# Old Features:
-===========================
+
+
 
 ● Attractive StyleSheet with Bootstrap CSS and Font awesome Icon
 ● Faster Loading
@@ -54,7 +53,7 @@ How To Install :-
 
 ###################################
 
-1. Download Vishesh Auto Index 4.0 
+1. Download Vishesh Auto Index 5 
 2. Upload And Extract It on your Online File Manager
 3. Now Goto:-
 http://yoursitename/install.php
